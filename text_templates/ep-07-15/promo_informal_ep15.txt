@@ -1,0 +1,38 @@
+Hello <name of organization>!
+
+We're happy to announce the upcoming Django Girls workshop at EuroPython 2015, hosted in Bilbao, Spain. Together, we can bring more diversity into the IT fields and empower women to pursue jobs in this field without fear or hesitation.
+
+The workshop is organized independently by Mikey Ariel and Petr Viktorin, in partnership with EuroPython 2015, one of the biggest Python conferences in Europe.
+
+WHAT
+====
+Similar to PyLadies and Rails Girls workshops, Django Girls aims to introduce women to the world of programming, and the 1-day workshop allows them to build their very first website with Django!
+
+Our website (with all the info and application link):
+http://djangogirls.org/europython2015
+
+WHEN
+====
+July 20th, 2015 
+
+WHERE
+=====
+Bilbao, Spain 
+For general information about EuroPython, see https://ep2015.europython.eu/en/
+
+WHO
+===
+The workshop is intended for women with no prior programming experience (but technical background is fine!). We accept applications from local and visiting attendees, and with the help of sponsorship we hope to offer financial aid to those who wish to travel to (and stay in) Bilbao for the workshop and the conference.
+
+APPLY
+=====
+Applications are now open, and will remain open until May 31, 2015. 
+
+GET INVOLVED
+============
+We encourage you to reach out to your communities, families, friends, and share the love of technology and programming with all the women you know. We're also seeking coaches and sponsors who can help with financial aid for applicants who will be traveling to Bilbao for the workshop.
+
+If you wish to get involved, please write to us at bilbao@djangogirls.org! We're always happy to have volunteers for the day of the event or to help with peripheral tasks such as printing swag, promoting with local media, or coaching!
+
+Thanks!
+The Django Girls EuroPython 2015 team
