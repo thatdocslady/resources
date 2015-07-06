@@ -1,8 +1,8 @@
 Hi there!
  
-Django Girls is hapenning in just <number> days, so it's time to meet your team and coach.
+Django Girls is hapenning in just 20 days, so it's time to meet your team and coach.
  
-<name>, <name, and <name>: You are now a team for Django Girls. Your coach will be <full_name>. We think it's best if you get to know each other before the workshop :)
+<name>, <name>, and <name>: You are now a team for Django Girls. Your coach will be <full_name>. We think it's best if you get to know each other before the workshop :)
  
 Team! Before the workshop we need to ask you to do two (or even three!) things:
  

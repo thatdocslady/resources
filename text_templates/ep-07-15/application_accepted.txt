@@ -1,15 +1,30 @@
 Subject: 
 
-ACCEPTED: Django Girls <city>
+ACCEPTED: Django Girls EuroPython 2015
 
 Body:
 
-Congratulations! We’re happy to invite you to join us for the Django Girls workshop in <city>. We hope that this workshop will provide you with a great first experience for building web apps.
+Hi <NAME>,
 
-You have 3 days (until <day of week>, 10am) to confirm via e-mail that you will attend Django Girls <city> on <date>. Please, be sure that you can come to <city> because there are many other women waiting
-for your place!
+Congratulations! We’re happy to invite you to join us for the Django Girls workshop at EuroPython in Bilbao, Spain. We hope that this workshop will provide you with a great first experience of building web apps.
 
-If you requested financial aid, you still need to confirm that you will attend before we can allocate the funds to you. After you confirm, we will notify you within 5 days how much financial aid we can provide.
+Your conference ticket to EuroPython, which includes food during the conference, is covered by us and by EuroPython.
+
+In addition, you requested financial aid to cover the following costs:
+
+* Travel to/from Bilbao - x euros
+* Accommodation in Bilbao - x nights
+
+Please confirm via email that:
+
+* The financial aid details listed above are up-to-date/accurate
+* You can attend the whole EuroPython conference on July 20-24
+* Your arrival and departure dates for accommodation booking
+
+You have 3 days (until Friday June 19 at 10am CET) to confirm via e-mail that you still can and want to attend Django Girls at EuroPython on July 20, 2015.
+
+Please make sure to reply to us on time, as we have a large waiting list and we can need your confirmation and details in order to guarantee your place in the workshop.
 
 Thanks! We can't wait to see you!
-Django Girls <city>
+The Django Girls EuroPython team
+
